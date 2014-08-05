@@ -1,10 +1,14 @@
+var c,canvas;
 
 
-
+function draw() {
+		
+};
 
 
 window.onload = function() {
-	alert("This is Tic Tac Toe");
+	canvas = getElementById("canvas");
+	draw();
 };
 
 
