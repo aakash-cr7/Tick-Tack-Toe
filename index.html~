@@ -7,9 +7,13 @@
 		<link href="myCss.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
-		<h1><u><b>Tic Tac Toe</b></u></h1>
-		<h2 style=" color: red"><u> Built with Javascript</u></h2>
-		<canvas id="canvas" width="500px" height="500px"></canvas>
+		
+		<div id="box">
+		<input type="button" id="btn1" onclick="clickButton('btn1')"/>
+		<input type="button" id="btn2" onclick="clickButton('btn2')"/> 
+		<input type="button" id="btn3" onclick="clickButton('btn3')"/>
+				
+		</div>
 		<script src="myScript.js"></script>
 	</body>
 </html>

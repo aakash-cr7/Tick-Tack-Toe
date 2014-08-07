@@ -1,5 +1,43 @@
-/*CSS Document for index.html*/
-h1,h2 {
-	text-align: center;
-	color: green;
+
+body {
+	
+	background-color: black;
 }
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+	
+}
+#box {
+	margin-left: 500px;
+	width: 310px;
+	height: 310px;
+	/*border: 1px solid green;*/
+	
+}
+
+input {
+	width: 100px;
+	height: 100px;
+	border: none;
+	font-size: 50px;
+	color: black;
+	margin: 0px;
+	border-bottom: 4px solid black;
+}
+
+#buttonReset {
+	margin-left: 500px;
+	height: 100px;
+	width: 310px;
+	border: none;
+	font-size: 50px;
+	color: orange;
+	background-color: grey;
+	margin-top: 10px;
+}
+
+
+
