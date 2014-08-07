@@ -1,4 +1,4 @@
 Tick-Tack-Toe
 =============
 
-Making Tic-Tac Toe using Javascript.
+Making Tic-Tac Toe using Basic Simple Javascript.
